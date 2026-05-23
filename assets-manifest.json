@@ -1,0 +1,3086 @@
+[
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AALon",
+    "underlyingSymbol": "AAL",
+    "name": "AAL",
+    "priceHint": null,
+    "slug": "aalon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AAPLon",
+    "underlyingSymbol": "AAPL",
+    "name": "AAPL",
+    "priceHint": null,
+    "slug": "aaplon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ABBVon",
+    "underlyingSymbol": "ABBV",
+    "name": "ABBV",
+    "priceHint": null,
+    "slug": "abbvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ABNBon",
+    "underlyingSymbol": "ABNB",
+    "name": "ABNB",
+    "priceHint": null,
+    "slug": "abnbon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ABTon",
+    "underlyingSymbol": "ABT",
+    "name": "ABT",
+    "priceHint": null,
+    "slug": "abton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ACHRon",
+    "underlyingSymbol": "ACHR",
+    "name": "ACHR",
+    "priceHint": null,
+    "slug": "achron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ACNon",
+    "underlyingSymbol": "ACN",
+    "name": "ACN",
+    "priceHint": null,
+    "slug": "acnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ADBEon",
+    "underlyingSymbol": "ADBE",
+    "name": "ADBE",
+    "priceHint": null,
+    "slug": "adbeon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ADIon",
+    "underlyingSymbol": "ADI",
+    "name": "ADI",
+    "priceHint": null,
+    "slug": "adion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AGGon",
+    "underlyingSymbol": "AGG",
+    "name": "AGG",
+    "priceHint": null,
+    "slug": "aggon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ALBon",
+    "underlyingSymbol": "ALB",
+    "name": "ALB",
+    "priceHint": null,
+    "slug": "albon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AMATon",
+    "underlyingSymbol": "AMAT",
+    "name": "AMAT",
+    "priceHint": null,
+    "slug": "amaton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AMCon",
+    "underlyingSymbol": "AMC",
+    "name": "AMC",
+    "priceHint": null,
+    "slug": "amcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AMDon",
+    "underlyingSymbol": "AMD",
+    "name": "AMD",
+    "priceHint": null,
+    "slug": "amdon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AMGNon",
+    "underlyingSymbol": "AMGN",
+    "name": "AMGN",
+    "priceHint": null,
+    "slug": "amgnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AMZNon",
+    "underlyingSymbol": "AMZN",
+    "name": "AMZN",
+    "priceHint": null,
+    "slug": "amznon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ANETon",
+    "underlyingSymbol": "ANET",
+    "name": "ANET",
+    "priceHint": null,
+    "slug": "aneton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "APLDon",
+    "underlyingSymbol": "APLD",
+    "name": "APLD",
+    "priceHint": null,
+    "slug": "apldon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "APOon",
+    "underlyingSymbol": "APO",
+    "name": "APO",
+    "priceHint": null,
+    "slug": "apoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "APPon",
+    "underlyingSymbol": "APP",
+    "name": "APP",
+    "priceHint": null,
+    "slug": "appon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ARMon",
+    "underlyingSymbol": "ARM",
+    "name": "ARM",
+    "priceHint": null,
+    "slug": "armon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ASMLon",
+    "underlyingSymbol": "ASML",
+    "name": "ASML",
+    "priceHint": null,
+    "slug": "asmlon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ASTSon",
+    "underlyingSymbol": "ASTS",
+    "name": "ASTS",
+    "priceHint": null,
+    "slug": "astson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AVGOon",
+    "underlyingSymbol": "AVGO",
+    "name": "AVGO",
+    "priceHint": null,
+    "slug": "avgoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "AXPon",
+    "underlyingSymbol": "AXP",
+    "name": "AXP",
+    "priceHint": null,
+    "slug": "axpon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BABAon",
+    "underlyingSymbol": "BABA",
+    "name": "BABA",
+    "priceHint": null,
+    "slug": "babaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BACon",
+    "underlyingSymbol": "BAC",
+    "name": "BAC",
+    "priceHint": null,
+    "slug": "bacon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BAon",
+    "underlyingSymbol": "BA",
+    "name": "BA",
+    "priceHint": null,
+    "slug": "baon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BBAIon",
+    "underlyingSymbol": "BBAI",
+    "name": "BBAI",
+    "priceHint": null,
+    "slug": "bbaion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BIDUon",
+    "underlyingSymbol": "BIDU",
+    "name": "BIDU",
+    "priceHint": null,
+    "slug": "biduon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BILIon",
+    "underlyingSymbol": "BILI",
+    "name": "BILI",
+    "priceHint": null,
+    "slug": "bilion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BINCon",
+    "underlyingSymbol": "BINC",
+    "name": "BINC",
+    "priceHint": null,
+    "slug": "bincon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BLKon",
+    "underlyingSymbol": "BLK",
+    "name": "BLK",
+    "priceHint": null,
+    "slug": "blkon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BLSHon",
+    "underlyingSymbol": "BLSH",
+    "name": "BLSH",
+    "priceHint": null,
+    "slug": "blshon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BMNRon",
+    "underlyingSymbol": "BMNR",
+    "name": "BMNR",
+    "priceHint": null,
+    "slug": "bmnron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BNOon",
+    "underlyingSymbol": "BNO",
+    "name": "BNO",
+    "priceHint": null,
+    "slug": "bnoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BTGon",
+    "underlyingSymbol": "BTG",
+    "name": "BTG",
+    "priceHint": null,
+    "slug": "btgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BTGOon",
+    "underlyingSymbol": "BTGO",
+    "name": "BTGO",
+    "priceHint": null,
+    "slug": "btgoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "BZon",
+    "underlyingSymbol": "BZ",
+    "name": "BZ",
+    "priceHint": null,
+    "slug": "bzon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CAPRon",
+    "underlyingSymbol": "CAPR",
+    "name": "CAPR",
+    "priceHint": null,
+    "slug": "capron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CATon",
+    "underlyingSymbol": "CAT",
+    "name": "CAT",
+    "priceHint": null,
+    "slug": "caton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CEGon",
+    "underlyingSymbol": "CEG",
+    "name": "CEG",
+    "priceHint": null,
+    "slug": "cegon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CIBRon",
+    "underlyingSymbol": "CIBR",
+    "name": "CIBR",
+    "priceHint": null,
+    "slug": "cibron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CIFRon",
+    "underlyingSymbol": "CIFR",
+    "name": "CIFR",
+    "priceHint": null,
+    "slug": "cifron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CLOAon",
+    "underlyingSymbol": "CLOA",
+    "name": "CLOA",
+    "priceHint": null,
+    "slug": "cloaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CLOIon",
+    "underlyingSymbol": "CLOI",
+    "name": "CLOI",
+    "priceHint": null,
+    "slug": "cloion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CMGon",
+    "underlyingSymbol": "CMG",
+    "name": "CMG",
+    "priceHint": null,
+    "slug": "cmgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COFon",
+    "underlyingSymbol": "COF",
+    "name": "COF",
+    "priceHint": null,
+    "slug": "cofon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COHRon",
+    "underlyingSymbol": "COHR",
+    "name": "COHR",
+    "priceHint": null,
+    "slug": "cohron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COINon",
+    "underlyingSymbol": "COIN",
+    "name": "COIN",
+    "priceHint": null,
+    "slug": "coinon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "Con",
+    "underlyingSymbol": "C",
+    "name": "C",
+    "priceHint": null,
+    "slug": "con"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COPon",
+    "underlyingSymbol": "COP",
+    "name": "COP",
+    "priceHint": null,
+    "slug": "copon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COPXon",
+    "underlyingSymbol": "COPX",
+    "name": "COPX",
+    "priceHint": null,
+    "slug": "copxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "COSTon",
+    "underlyingSymbol": "COST",
+    "name": "COST",
+    "priceHint": null,
+    "slug": "coston"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CPNGon",
+    "underlyingSymbol": "CPNG",
+    "name": "CPNG",
+    "priceHint": null,
+    "slug": "cpngon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CRCLon",
+    "underlyingSymbol": "CRCL",
+    "name": "CRCL",
+    "priceHint": null,
+    "slug": "crclon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CRMon",
+    "underlyingSymbol": "CRM",
+    "name": "CRM",
+    "priceHint": null,
+    "slug": "crmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CRWDon",
+    "underlyingSymbol": "CRWD",
+    "name": "CRWD",
+    "priceHint": null,
+    "slug": "crwdon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CRWVon",
+    "underlyingSymbol": "CRWV",
+    "name": "CRWV",
+    "priceHint": null,
+    "slug": "crwvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CSCOon",
+    "underlyingSymbol": "CSCO",
+    "name": "CSCO",
+    "priceHint": null,
+    "slug": "cscoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CVNAon",
+    "underlyingSymbol": "CVNA",
+    "name": "CVNA",
+    "priceHint": null,
+    "slug": "cvnaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "CVXon",
+    "underlyingSymbol": "CVX",
+    "name": "CVX",
+    "priceHint": null,
+    "slug": "cvxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DASHon",
+    "underlyingSymbol": "DASH",
+    "name": "DASH",
+    "priceHint": null,
+    "slug": "dashon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DBCon",
+    "underlyingSymbol": "DBC",
+    "name": "DBC",
+    "priceHint": null,
+    "slug": "dbcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DEon",
+    "underlyingSymbol": "DE",
+    "name": "DE",
+    "priceHint": null,
+    "slug": "deon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DGRWon",
+    "underlyingSymbol": "DGRW",
+    "name": "DGRW",
+    "priceHint": null,
+    "slug": "dgrwon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DISon",
+    "underlyingSymbol": "DIS",
+    "name": "DIS",
+    "priceHint": null,
+    "slug": "dison"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "DNNon",
+    "underlyingSymbol": "DNN",
+    "name": "DNN",
+    "priceHint": null,
+    "slug": "dnnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ECHon",
+    "underlyingSymbol": "ECH",
+    "name": "ECH",
+    "priceHint": null,
+    "slug": "echon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EEMon",
+    "underlyingSymbol": "EEM",
+    "name": "EEM",
+    "priceHint": null,
+    "slug": "eemon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EFAon",
+    "underlyingSymbol": "EFA",
+    "name": "EFA",
+    "priceHint": null,
+    "slug": "efaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ENLVon",
+    "underlyingSymbol": "ENLV",
+    "name": "ENLV",
+    "priceHint": null,
+    "slug": "enlvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ENPHon",
+    "underlyingSymbol": "ENPH",
+    "name": "ENPH",
+    "priceHint": null,
+    "slug": "enphon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EQIXon",
+    "underlyingSymbol": "EQIX",
+    "name": "EQIX",
+    "priceHint": null,
+    "slug": "eqixon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ETHAon",
+    "underlyingSymbol": "ETHA",
+    "name": "ETHA",
+    "priceHint": null,
+    "slug": "ethaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ETNon",
+    "underlyingSymbol": "ETN",
+    "name": "ETN",
+    "priceHint": null,
+    "slug": "etnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EWJon",
+    "underlyingSymbol": "EWJ",
+    "name": "EWJ",
+    "priceHint": null,
+    "slug": "ewjon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EWYon",
+    "underlyingSymbol": "EWY",
+    "name": "EWY",
+    "priceHint": null,
+    "slug": "ewyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EWZon",
+    "underlyingSymbol": "EWZ",
+    "name": "EWZ",
+    "priceHint": null,
+    "slug": "ewzon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "EXODon",
+    "underlyingSymbol": "EXOD",
+    "name": "EXOD",
+    "priceHint": null,
+    "slug": "exodon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FCXon",
+    "underlyingSymbol": "FCX",
+    "name": "FCX",
+    "priceHint": null,
+    "slug": "fcxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FFOGon",
+    "underlyingSymbol": "FFOG",
+    "name": "FFOG",
+    "priceHint": null,
+    "slug": "ffogon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FGDLon",
+    "underlyingSymbol": "FGDL",
+    "name": "FGDL",
+    "priceHint": null,
+    "slug": "fgdlon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FIGon",
+    "underlyingSymbol": "FIG",
+    "name": "FIG",
+    "priceHint": null,
+    "slug": "figon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FIGRon",
+    "underlyingSymbol": "FIGR",
+    "name": "FIGR",
+    "priceHint": null,
+    "slug": "figron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FLHYon",
+    "underlyingSymbol": "FLHY",
+    "name": "FLHY",
+    "priceHint": null,
+    "slug": "flhyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FLQLon",
+    "underlyingSymbol": "FLQL",
+    "name": "FLQL",
+    "priceHint": null,
+    "slug": "flqlon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "Fon",
+    "underlyingSymbol": "F",
+    "name": "F",
+    "priceHint": null,
+    "slug": "fon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FSOLon",
+    "underlyingSymbol": "FSOL",
+    "name": "FSOL",
+    "priceHint": null,
+    "slug": "fsolon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FTGCon",
+    "underlyingSymbol": "FTGC",
+    "name": "FTGC",
+    "priceHint": null,
+    "slug": "ftgcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FUTUon",
+    "underlyingSymbol": "FUTU",
+    "name": "FUTU",
+    "priceHint": null,
+    "slug": "futuon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "FXIon",
+    "underlyingSymbol": "FXI",
+    "name": "FXI",
+    "priceHint": null,
+    "slug": "fxion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GEMIon",
+    "underlyingSymbol": "GEMI",
+    "name": "GEMI",
+    "priceHint": null,
+    "slug": "gemion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GEon",
+    "underlyingSymbol": "GE",
+    "name": "GE",
+    "priceHint": null,
+    "slug": "geon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GEVon",
+    "underlyingSymbol": "GEV",
+    "name": "GEV",
+    "priceHint": null,
+    "slug": "gevon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GLDon",
+    "underlyingSymbol": "GLD",
+    "name": "GLD",
+    "priceHint": null,
+    "slug": "gldon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GLTRon",
+    "underlyingSymbol": "GLTR",
+    "name": "GLTR",
+    "priceHint": null,
+    "slug": "gltron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GLXYon",
+    "underlyingSymbol": "GLXY",
+    "name": "GLXY",
+    "priceHint": null,
+    "slug": "glxyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GMEon",
+    "underlyingSymbol": "GME",
+    "name": "GME",
+    "priceHint": null,
+    "slug": "gmeon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GOOGLon",
+    "underlyingSymbol": "GOOGL",
+    "name": "GOOGL",
+    "priceHint": null,
+    "slug": "googlon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GRABon",
+    "underlyingSymbol": "GRAB",
+    "name": "GRAB",
+    "priceHint": null,
+    "slug": "grabon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GRNDon",
+    "underlyingSymbol": "GRND",
+    "name": "GRND",
+    "priceHint": null,
+    "slug": "grndon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "GSon",
+    "underlyingSymbol": "GS",
+    "name": "GS",
+    "priceHint": null,
+    "slug": "gson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "HDon",
+    "underlyingSymbol": "HD",
+    "name": "HD",
+    "priceHint": null,
+    "slug": "hdon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "HIMSon",
+    "underlyingSymbol": "HIMS",
+    "name": "HIMS",
+    "priceHint": null,
+    "slug": "himson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "HOODon",
+    "underlyingSymbol": "HOOD",
+    "name": "HOOD",
+    "priceHint": null,
+    "slug": "hoodon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "HYGon",
+    "underlyingSymbol": "HYG",
+    "name": "HYG",
+    "priceHint": null,
+    "slug": "hygon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "HYSon",
+    "underlyingSymbol": "HYS",
+    "name": "HYS",
+    "priceHint": null,
+    "slug": "hyson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IAUon",
+    "underlyingSymbol": "IAU",
+    "name": "IAU",
+    "priceHint": null,
+    "slug": "iauon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IBITon",
+    "underlyingSymbol": "IBIT",
+    "name": "IBIT",
+    "priceHint": null,
+    "slug": "ibiton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IBMon",
+    "underlyingSymbol": "IBM",
+    "name": "IBM",
+    "priceHint": null,
+    "slug": "ibmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IEFAon",
+    "underlyingSymbol": "IEFA",
+    "name": "IEFA",
+    "priceHint": null,
+    "slug": "iefaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IEFon",
+    "underlyingSymbol": "IEF",
+    "name": "IEF",
+    "priceHint": null,
+    "slug": "iefon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IEMGon",
+    "underlyingSymbol": "IEMG",
+    "name": "IEMG",
+    "priceHint": null,
+    "slug": "iemgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IJHon",
+    "underlyingSymbol": "IJH",
+    "name": "IJH",
+    "priceHint": null,
+    "slug": "ijhon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "INCEon",
+    "underlyingSymbol": "INCE",
+    "name": "INCE",
+    "priceHint": null,
+    "slug": "inceon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "INDAon",
+    "underlyingSymbol": "INDA",
+    "name": "INDA",
+    "priceHint": null,
+    "slug": "indaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "INTCon",
+    "underlyingSymbol": "INTC",
+    "name": "INTC",
+    "priceHint": null,
+    "slug": "intcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "INTUon",
+    "underlyingSymbol": "INTU",
+    "name": "INTU",
+    "priceHint": null,
+    "slug": "intuon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IONQon",
+    "underlyingSymbol": "IONQ",
+    "name": "IONQ",
+    "priceHint": null,
+    "slug": "ionqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IRENon",
+    "underlyingSymbol": "IREN",
+    "name": "IREN",
+    "priceHint": null,
+    "slug": "irenon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ISRGon",
+    "underlyingSymbol": "ISRG",
+    "name": "ISRG",
+    "priceHint": null,
+    "slug": "isrgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ITAon",
+    "underlyingSymbol": "ITA",
+    "name": "ITA",
+    "priceHint": null,
+    "slug": "itaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ITOTon",
+    "underlyingSymbol": "ITOT",
+    "name": "ITOT",
+    "priceHint": null,
+    "slug": "itoton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IVVon",
+    "underlyingSymbol": "IVV",
+    "name": "IVV",
+    "priceHint": null,
+    "slug": "ivvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IWFon",
+    "underlyingSymbol": "IWF",
+    "name": "IWF",
+    "priceHint": null,
+    "slug": "iwfon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IWMon",
+    "underlyingSymbol": "IWM",
+    "name": "IWM",
+    "priceHint": null,
+    "slug": "iwmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "IWNon",
+    "underlyingSymbol": "IWN",
+    "name": "IWN",
+    "priceHint": null,
+    "slug": "iwnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "JAAAon",
+    "underlyingSymbol": "JAAA",
+    "name": "JAAA",
+    "priceHint": null,
+    "slug": "jaaaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "JDon",
+    "underlyingSymbol": "JD",
+    "name": "JD",
+    "priceHint": null,
+    "slug": "jdon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "JNJon",
+    "underlyingSymbol": "JNJ",
+    "name": "JNJ",
+    "priceHint": null,
+    "slug": "jnjon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "JPMon",
+    "underlyingSymbol": "JPM",
+    "name": "JPM",
+    "priceHint": null,
+    "slug": "jpmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "KLACon",
+    "underlyingSymbol": "KLAC",
+    "name": "KLAC",
+    "priceHint": null,
+    "slug": "klacon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "KOon",
+    "underlyingSymbol": "KO",
+    "name": "KO",
+    "priceHint": null,
+    "slug": "koon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "KWEBon",
+    "underlyingSymbol": "KWEB",
+    "name": "KWEB",
+    "priceHint": null,
+    "slug": "kwebon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LINon",
+    "underlyingSymbol": "LIN",
+    "name": "LIN",
+    "priceHint": null,
+    "slug": "linon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LIon",
+    "underlyingSymbol": "LI",
+    "name": "LI",
+    "priceHint": null,
+    "slug": "lion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LLYon",
+    "underlyingSymbol": "LLY",
+    "name": "LLY",
+    "priceHint": null,
+    "slug": "llyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LMTon",
+    "underlyingSymbol": "LMT",
+    "name": "LMT",
+    "priceHint": null,
+    "slug": "lmton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LOWon",
+    "underlyingSymbol": "LOW",
+    "name": "LOW",
+    "priceHint": null,
+    "slug": "lowon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LRCXon",
+    "underlyingSymbol": "LRCX",
+    "name": "LRCX",
+    "priceHint": null,
+    "slug": "lrcxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "LUNRon",
+    "underlyingSymbol": "LUNR",
+    "name": "LUNR",
+    "priceHint": null,
+    "slug": "lunron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MAon",
+    "underlyingSymbol": "MA",
+    "name": "MA",
+    "priceHint": null,
+    "slug": "maon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MARAon",
+    "underlyingSymbol": "MARA",
+    "name": "MARA",
+    "priceHint": null,
+    "slug": "maraon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MCDon",
+    "underlyingSymbol": "MCD",
+    "name": "MCD",
+    "priceHint": null,
+    "slug": "mcdon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MELIon",
+    "underlyingSymbol": "MELI",
+    "name": "MELI",
+    "priceHint": null,
+    "slug": "melion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "METAon",
+    "underlyingSymbol": "META",
+    "name": "META",
+    "priceHint": null,
+    "slug": "metaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MPon",
+    "underlyingSymbol": "MP",
+    "name": "MP",
+    "priceHint": null,
+    "slug": "mpon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MRKon",
+    "underlyingSymbol": "MRK",
+    "name": "MRK",
+    "priceHint": null,
+    "slug": "mrkon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MRNAon",
+    "underlyingSymbol": "MRNA",
+    "name": "MRNA",
+    "priceHint": null,
+    "slug": "mrnaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MRVLon",
+    "underlyingSymbol": "MRVL",
+    "name": "MRVL",
+    "priceHint": null,
+    "slug": "mrvlon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MSFTon",
+    "underlyingSymbol": "MSFT",
+    "name": "MSFT",
+    "priceHint": null,
+    "slug": "msfton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MSTRon",
+    "underlyingSymbol": "MSTR",
+    "name": "MSTR",
+    "priceHint": null,
+    "slug": "mstron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MTZon",
+    "underlyingSymbol": "MTZ",
+    "name": "MTZ",
+    "priceHint": null,
+    "slug": "mtzon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "MUon",
+    "underlyingSymbol": "MU",
+    "name": "MU",
+    "priceHint": null,
+    "slug": "muon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NBISon",
+    "underlyingSymbol": "NBIS",
+    "name": "NBIS",
+    "priceHint": null,
+    "slug": "nbison"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NEEon",
+    "underlyingSymbol": "NEE",
+    "name": "NEE",
+    "priceHint": null,
+    "slug": "neeon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NEMon",
+    "underlyingSymbol": "NEM",
+    "name": "NEM",
+    "priceHint": null,
+    "slug": "nemon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NFLXon",
+    "underlyingSymbol": "NFLX",
+    "name": "NFLX",
+    "priceHint": null,
+    "slug": "nflxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NIKLon",
+    "underlyingSymbol": "NIKL",
+    "name": "NIKL",
+    "priceHint": null,
+    "slug": "niklon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NIOon",
+    "underlyingSymbol": "NIO",
+    "name": "NIO",
+    "priceHint": null,
+    "slug": "nioon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NKEon",
+    "underlyingSymbol": "NKE",
+    "name": "NKE",
+    "priceHint": null,
+    "slug": "nkeon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NOCon",
+    "underlyingSymbol": "NOC",
+    "name": "NOC",
+    "priceHint": null,
+    "slug": "nocon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NOWon",
+    "underlyingSymbol": "NOW",
+    "name": "NOW",
+    "priceHint": null,
+    "slug": "nowon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NTESon",
+    "underlyingSymbol": "NTES",
+    "name": "NTES",
+    "priceHint": null,
+    "slug": "nteson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NVDAon",
+    "underlyingSymbol": "NVDA",
+    "name": "NVDA",
+    "priceHint": null,
+    "slug": "nvdaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "NVOon",
+    "underlyingSymbol": "NVO",
+    "name": "NVO",
+    "priceHint": null,
+    "slug": "nvoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OIHon",
+    "underlyingSymbol": "OIH",
+    "name": "OIH",
+    "priceHint": null,
+    "slug": "oihon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OKLOon",
+    "underlyingSymbol": "OKLO",
+    "name": "OKLO",
+    "priceHint": null,
+    "slug": "okloon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ONDSon",
+    "underlyingSymbol": "ONDS",
+    "name": "ONDS",
+    "priceHint": null,
+    "slug": "ondson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ONon",
+    "underlyingSymbol": "ON",
+    "name": "ON",
+    "priceHint": null,
+    "slug": "onon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OPENon",
+    "underlyingSymbol": "OPEN",
+    "name": "OPEN",
+    "priceHint": null,
+    "slug": "openon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OPRAon",
+    "underlyingSymbol": "OPRA",
+    "name": "OPRA",
+    "priceHint": null,
+    "slug": "opraon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "ORCLon",
+    "underlyingSymbol": "ORCL",
+    "name": "ORCL",
+    "priceHint": null,
+    "slug": "orclon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OSCRon",
+    "underlyingSymbol": "OSCR",
+    "name": "OSCR",
+    "priceHint": null,
+    "slug": "oscron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "OXYon",
+    "underlyingSymbol": "OXY",
+    "name": "OXY",
+    "priceHint": null,
+    "slug": "oxyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PALLon",
+    "underlyingSymbol": "PALL",
+    "name": "PALL",
+    "priceHint": null,
+    "slug": "pallon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PANWon",
+    "underlyingSymbol": "PANW",
+    "name": "PANW",
+    "priceHint": null,
+    "slug": "panwon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PAVEon",
+    "underlyingSymbol": "PAVE",
+    "name": "PAVE",
+    "priceHint": null,
+    "slug": "paveon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PBRon",
+    "underlyingSymbol": "PBR",
+    "name": "PBR",
+    "priceHint": null,
+    "slug": "pbron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PCGon",
+    "underlyingSymbol": "PCG",
+    "name": "PCG",
+    "priceHint": null,
+    "slug": "pcgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PDBCon",
+    "underlyingSymbol": "PDBC",
+    "name": "PDBC",
+    "priceHint": null,
+    "slug": "pdbcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PDDon",
+    "underlyingSymbol": "PDD",
+    "name": "PDD",
+    "priceHint": null,
+    "slug": "pddon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PEPon",
+    "underlyingSymbol": "PEP",
+    "name": "PEP",
+    "priceHint": null,
+    "slug": "pepon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PFEon",
+    "underlyingSymbol": "PFE",
+    "name": "PFE",
+    "priceHint": null,
+    "slug": "pfeon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PGon",
+    "underlyingSymbol": "PG",
+    "name": "PG",
+    "priceHint": null,
+    "slug": "pgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PINSon",
+    "underlyingSymbol": "PINS",
+    "name": "PINS",
+    "priceHint": null,
+    "slug": "pinson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PLTRon",
+    "underlyingSymbol": "PLTR",
+    "name": "PLTR",
+    "priceHint": null,
+    "slug": "pltron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PLUGon",
+    "underlyingSymbol": "PLUG",
+    "name": "PLUG",
+    "priceHint": null,
+    "slug": "plugon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PPLTon",
+    "underlyingSymbol": "PPLT",
+    "name": "PPLT",
+    "priceHint": null,
+    "slug": "pplton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PSQon",
+    "underlyingSymbol": "PSQ",
+    "name": "PSQ",
+    "priceHint": null,
+    "slug": "psqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "PYPLon",
+    "underlyingSymbol": "PYPL",
+    "name": "PYPL",
+    "priceHint": null,
+    "slug": "pyplon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "QBTSon",
+    "underlyingSymbol": "QBTS",
+    "name": "QBTS",
+    "priceHint": null,
+    "slug": "qbtson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "QCOMon",
+    "underlyingSymbol": "QCOM",
+    "name": "QCOM",
+    "priceHint": null,
+    "slug": "qcomon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "QQQon",
+    "underlyingSymbol": "QQQ",
+    "name": "QQQ",
+    "priceHint": null,
+    "slug": "qqqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "QUBTon",
+    "underlyingSymbol": "QUBT",
+    "name": "QUBT",
+    "priceHint": null,
+    "slug": "qubton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RDDTon",
+    "underlyingSymbol": "RDDT",
+    "name": "RDDT",
+    "priceHint": null,
+    "slug": "rddton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RDWon",
+    "underlyingSymbol": "RDW",
+    "name": "RDW",
+    "priceHint": null,
+    "slug": "rdwon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "REGNon",
+    "underlyingSymbol": "REGN",
+    "name": "REGN",
+    "priceHint": null,
+    "slug": "regnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "REMXon",
+    "underlyingSymbol": "REMX",
+    "name": "REMX",
+    "priceHint": null,
+    "slug": "remxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RGTIon",
+    "underlyingSymbol": "RGTI",
+    "name": "RGTI",
+    "priceHint": null,
+    "slug": "rgtion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RIOTon",
+    "underlyingSymbol": "RIOT",
+    "name": "RIOT",
+    "priceHint": null,
+    "slug": "rioton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RIVNon",
+    "underlyingSymbol": "RIVN",
+    "name": "RIVN",
+    "priceHint": null,
+    "slug": "rivnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RKLBon",
+    "underlyingSymbol": "RKLB",
+    "name": "RKLB",
+    "priceHint": null,
+    "slug": "rklbon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "RTXon",
+    "underlyingSymbol": "RTX",
+    "name": "RTX",
+    "priceHint": null,
+    "slug": "rtxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SBETon",
+    "underlyingSymbol": "SBET",
+    "name": "SBET",
+    "priceHint": null,
+    "slug": "sbeton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SBUXon",
+    "underlyingSymbol": "SBUX",
+    "name": "SBUX",
+    "priceHint": null,
+    "slug": "sbuxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SCCOon",
+    "underlyingSymbol": "SCCO",
+    "name": "SCCO",
+    "priceHint": null,
+    "slug": "sccoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SCHWon",
+    "underlyingSymbol": "SCHW",
+    "name": "SCHW",
+    "priceHint": null,
+    "slug": "schwon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SEDGon",
+    "underlyingSymbol": "SEDG",
+    "name": "SEDG",
+    "priceHint": null,
+    "slug": "sedgon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SGOVon",
+    "underlyingSymbol": "SGOV",
+    "name": "SGOV",
+    "priceHint": null,
+    "slug": "sgovon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SHOPon",
+    "underlyingSymbol": "SHOP",
+    "name": "SHOP",
+    "priceHint": null,
+    "slug": "shopon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SHYon",
+    "underlyingSymbol": "SHY",
+    "name": "SHY",
+    "priceHint": null,
+    "slug": "shyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SLVon",
+    "underlyingSymbol": "SLV",
+    "name": "SLV",
+    "priceHint": null,
+    "slug": "slvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SMCIon",
+    "underlyingSymbol": "SMCI",
+    "name": "SMCI",
+    "priceHint": null,
+    "slug": "smcion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SNAPon",
+    "underlyingSymbol": "SNAP",
+    "name": "SNAP",
+    "priceHint": null,
+    "slug": "snapon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SNDKon",
+    "underlyingSymbol": "SNDK",
+    "name": "SNDK",
+    "priceHint": null,
+    "slug": "sndkon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SNOWon",
+    "underlyingSymbol": "SNOW",
+    "name": "SNOW",
+    "priceHint": null,
+    "slug": "snowon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SOFIon",
+    "underlyingSymbol": "SOFI",
+    "name": "SOFI",
+    "priceHint": null,
+    "slug": "sofion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SOon",
+    "underlyingSymbol": "SO",
+    "name": "SO",
+    "priceHint": null,
+    "slug": "soon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SOUNon",
+    "underlyingSymbol": "SOUN",
+    "name": "SOUN",
+    "priceHint": null,
+    "slug": "sounon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SOXXon",
+    "underlyingSymbol": "SOXX",
+    "name": "SOXX",
+    "priceHint": null,
+    "slug": "soxxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SPGIon",
+    "underlyingSymbol": "SPGI",
+    "name": "SPGI",
+    "priceHint": null,
+    "slug": "spgion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SPOTon",
+    "underlyingSymbol": "SPOT",
+    "name": "SPOT",
+    "priceHint": null,
+    "slug": "spoton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SPYon",
+    "underlyingSymbol": "SPY",
+    "name": "SPY",
+    "priceHint": null,
+    "slug": "spyon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "SQQQon",
+    "underlyingSymbol": "SQQQ",
+    "name": "SQQQ",
+    "priceHint": null,
+    "slug": "sqqqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "STRCon",
+    "underlyingSymbol": "STRC",
+    "name": "STRC",
+    "priceHint": null,
+    "slug": "strcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "STXon",
+    "underlyingSymbol": "STX",
+    "name": "STX",
+    "priceHint": null,
+    "slug": "stxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TCOMon",
+    "underlyingSymbol": "TCOM",
+    "name": "TCOM",
+    "priceHint": null,
+    "slug": "tcomon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TIPon",
+    "underlyingSymbol": "TIP",
+    "name": "TIP",
+    "priceHint": null,
+    "slug": "tipon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TLNon",
+    "underlyingSymbol": "TLN",
+    "name": "TLN",
+    "priceHint": null,
+    "slug": "tlnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TLTon",
+    "underlyingSymbol": "TLT",
+    "name": "TLT",
+    "priceHint": null,
+    "slug": "tlton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TMon",
+    "underlyingSymbol": "TM",
+    "name": "TM",
+    "priceHint": null,
+    "slug": "tmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TMOon",
+    "underlyingSymbol": "TMO",
+    "name": "TMO",
+    "priceHint": null,
+    "slug": "tmoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TMUSon",
+    "underlyingSymbol": "TMUS",
+    "name": "TMUS",
+    "priceHint": null,
+    "slug": "tmuson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "Ton",
+    "underlyingSymbol": "T",
+    "name": "T",
+    "priceHint": null,
+    "slug": "ton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TQQQon",
+    "underlyingSymbol": "TQQQ",
+    "name": "TQQQ",
+    "priceHint": null,
+    "slug": "tqqqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TSLAon",
+    "underlyingSymbol": "TSLA",
+    "name": "TSLA",
+    "priceHint": null,
+    "slug": "tslaon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TSMon",
+    "underlyingSymbol": "TSM",
+    "name": "TSM",
+    "priceHint": null,
+    "slug": "tsmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "TXNon",
+    "underlyingSymbol": "TXN",
+    "name": "TXN",
+    "priceHint": null,
+    "slug": "txnon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "UBERon",
+    "underlyingSymbol": "UBER",
+    "name": "UBER",
+    "priceHint": null,
+    "slug": "uberon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "UECon",
+    "underlyingSymbol": "UEC",
+    "name": "UEC",
+    "priceHint": null,
+    "slug": "uecon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "UNGon",
+    "underlyingSymbol": "UNG",
+    "name": "UNG",
+    "priceHint": null,
+    "slug": "ungon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "UNHon",
+    "underlyingSymbol": "UNH",
+    "name": "UNH",
+    "priceHint": null,
+    "slug": "unhon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "UNPon",
+    "underlyingSymbol": "UNP",
+    "name": "UNP",
+    "priceHint": null,
+    "slug": "unpon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "URAon",
+    "underlyingSymbol": "URA",
+    "name": "URA",
+    "priceHint": null,
+    "slug": "uraon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "USFRon",
+    "underlyingSymbol": "USFR",
+    "name": "USFR",
+    "priceHint": null,
+    "slug": "usfron"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "USOon",
+    "underlyingSymbol": "USO",
+    "name": "USO",
+    "priceHint": null,
+    "slug": "usoon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VFSon",
+    "underlyingSymbol": "VFS",
+    "name": "VFS",
+    "priceHint": null,
+    "slug": "vfson"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VNQon",
+    "underlyingSymbol": "VNQ",
+    "name": "VNQ",
+    "priceHint": null,
+    "slug": "vnqon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "Von",
+    "underlyingSymbol": "V",
+    "name": "V",
+    "priceHint": null,
+    "slug": "von"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VRTon",
+    "underlyingSymbol": "VRT",
+    "name": "VRT",
+    "priceHint": null,
+    "slug": "vrton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VRTXon",
+    "underlyingSymbol": "VRTX",
+    "name": "VRTX",
+    "priceHint": null,
+    "slug": "vrtxon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VSTon",
+    "underlyingSymbol": "VST",
+    "name": "VST",
+    "priceHint": null,
+    "slug": "vston"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VTIon",
+    "underlyingSymbol": "VTI",
+    "name": "VTI",
+    "priceHint": null,
+    "slug": "vtion"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VTVon",
+    "underlyingSymbol": "VTV",
+    "name": "VTV",
+    "priceHint": null,
+    "slug": "vtvon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "VZon",
+    "underlyingSymbol": "VZ",
+    "name": "VZ",
+    "priceHint": null,
+    "slug": "vzon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "WDCon",
+    "underlyingSymbol": "WDC",
+    "name": "WDC",
+    "priceHint": null,
+    "slug": "wdcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "WFCon",
+    "underlyingSymbol": "WFC",
+    "name": "WFC",
+    "priceHint": null,
+    "slug": "wfcon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "WMon",
+    "underlyingSymbol": "WM",
+    "name": "WM",
+    "priceHint": null,
+    "slug": "wmon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "WMTon",
+    "underlyingSymbol": "WMT",
+    "name": "WMT",
+    "priceHint": null,
+    "slug": "wmton"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "WULFon",
+    "underlyingSymbol": "WULF",
+    "name": "WULF",
+    "priceHint": null,
+    "slug": "wulfon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "XOMon",
+    "underlyingSymbol": "XOM",
+    "name": "XOM",
+    "priceHint": null,
+    "slug": "xomon"
+  },
+  {
+    "platform": "Ondo",
+    "tokenSymbol": "XYZon",
+    "underlyingSymbol": "XYZ",
+    "name": "XYZ",
+    "priceHint": null,
+    "slug": "xyzon"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AAPLx",
+    "underlyingSymbol": "AAPL",
+    "name": "Apple xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ABBVx",
+    "underlyingSymbol": "ABBV",
+    "name": "AbbVie xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ABTx",
+    "underlyingSymbol": "ABT",
+    "name": "Abbott xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ACNx",
+    "underlyingSymbol": "ACN",
+    "name": "Accenture xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ADBEx",
+    "underlyingSymbol": "ADBE",
+    "name": "Adobe xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AMATx",
+    "underlyingSymbol": "AMAT",
+    "name": "Applied Materials, Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AMBRx",
+    "underlyingSymbol": "AMBR",
+    "name": "Amber xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AMDx",
+    "underlyingSymbol": "AMD",
+    "name": "AMD xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AMZNx",
+    "underlyingSymbol": "AMZN",
+    "name": "Amazon xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ANETx",
+    "underlyingSymbol": "ANET",
+    "name": "Arista Networks, Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "APLDx",
+    "underlyingSymbol": "APLD",
+    "name": "Applied Digital Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "APPx",
+    "underlyingSymbol": "APP",
+    "name": "AppLovin xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ASMLx",
+    "underlyingSymbol": "ASML",
+    "name": "ASML xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ASTSx",
+    "underlyingSymbol": "ASTS",
+    "name": "AST SpaceMobile xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AVGOx",
+    "underlyingSymbol": "AVGO",
+    "name": "Broadcom xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "AZNx",
+    "underlyingSymbol": "AZN",
+    "name": "AstraZeneca xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BACx",
+    "underlyingSymbol": "BAC",
+    "name": "Bank of America xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BITXx",
+    "underlyingSymbol": "BITX",
+    "name": "Volatility Shares 2x Bitcoin Strategy xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BMNRx",
+    "underlyingSymbol": "BMNR",
+    "name": "Bitmine xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BRK.Bx",
+    "underlyingSymbol": "BRK.B",
+    "name": "Berkshire Hathaway xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BTBTx",
+    "underlyingSymbol": "BTBT",
+    "name": "Bit Digital xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "BTGOx",
+    "underlyingSymbol": "BTGO",
+    "name": "Bitgo xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CEGx",
+    "underlyingSymbol": "CEG",
+    "name": "Constellation Energy Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CLSKx",
+    "underlyingSymbol": "CLSK",
+    "name": "CleanSpark xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CMCSAx",
+    "underlyingSymbol": "CMCSA",
+    "name": "Comcast xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "COINx",
+    "underlyingSymbol": "COIN",
+    "name": "Coinbase xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "COPXx",
+    "underlyingSymbol": "COPX",
+    "name": "Global X Copper Miners xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CORZx",
+    "underlyingSymbol": "CORZ",
+    "name": "Core Scientific xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CRCLx",
+    "underlyingSymbol": "CRCL",
+    "name": "Circle xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CRMx",
+    "underlyingSymbol": "CRM",
+    "name": "Salesforce xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CRWDx",
+    "underlyingSymbol": "CRWD",
+    "name": "CrowdStrike xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CSCOx",
+    "underlyingSymbol": "CSCO",
+    "name": "Cisco xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "CVXx",
+    "underlyingSymbol": "CVX",
+    "name": "Chevron xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "DAXx",
+    "underlyingSymbol": "DAX",
+    "name": "Global X DAX Germany xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "DELLx",
+    "underlyingSymbol": "DELL",
+    "name": "Dell Technologies Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "DFDVx",
+    "underlyingSymbol": "DFDV",
+    "name": "DFDV xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "DHRx",
+    "underlyingSymbol": "DHR",
+    "name": "Danaher xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ENHAx",
+    "underlyingSymbol": "ENHA",
+    "name": "Enhanced Group xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ETNx",
+    "underlyingSymbol": "ETN",
+    "name": "Eaton Corporation plc xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "EWGx",
+    "underlyingSymbol": "EWG",
+    "name": "iShares MSCI Germany xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "EWQx",
+    "underlyingSymbol": "EWQ",
+    "name": "iShares MSCI France xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "EWUx",
+    "underlyingSymbol": "EWU",
+    "name": "iShares MSCI United Kingdom xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "EWYx",
+    "underlyingSymbol": "EWY",
+    "name": "iShares MSCI South Korea xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "FAAAx",
+    "underlyingSymbol": "FAAA",
+    "name": "Fidelity AAA CLO xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "FEZx",
+    "underlyingSymbol": "FEZ",
+    "name": "SPDR EURO STOXX 50 xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "FLBLx",
+    "underlyingSymbol": "FLBL",
+    "name": "Franklin Senior Loan xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "FLQMx",
+    "underlyingSymbol": "FLQM",
+    "name": "Franklin U.S. Mid Cap Multi-Factor xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "FSMLx",
+    "underlyingSymbol": "FSML",
+    "name": "Franklin Small Cap Enhanced xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GDXx",
+    "underlyingSymbol": "GDX",
+    "name": "VanEck Gold Miners xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GEVx",
+    "underlyingSymbol": "GEV",
+    "name": "GE Vernova Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GLDx",
+    "underlyingSymbol": "GLD",
+    "name": "Gold xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GLXYx",
+    "underlyingSymbol": "GLXY",
+    "name": "Galaxy Digital xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GMEx",
+    "underlyingSymbol": "GME",
+    "name": "Gamestop xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GOOGLx",
+    "underlyingSymbol": "GOOGL",
+    "name": "Alphabet xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "GSx",
+    "underlyingSymbol": "GS",
+    "name": "Goldman Sachs xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "HDx",
+    "underlyingSymbol": "HD",
+    "name": "Home Depot xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "HIMSx",
+    "underlyingSymbol": "HIMS",
+    "name": "Hims & Hers xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "HONx",
+    "underlyingSymbol": "HON",
+    "name": "Honeywell xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "HOODx",
+    "underlyingSymbol": "HOOD",
+    "name": "Robinhood xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "HUTx",
+    "underlyingSymbol": "HUT",
+    "name": "Hut 8 xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IBMx",
+    "underlyingSymbol": "IBM",
+    "name": "International Business Machines xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IEMGx",
+    "underlyingSymbol": "IEMG",
+    "name": "Core MSCI Emerging Markets xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IJRx",
+    "underlyingSymbol": "IJR",
+    "name": "S&P Small Cap xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "INTCx",
+    "underlyingSymbol": "INTC",
+    "name": "Intel xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IQMx",
+    "underlyingSymbol": "IQM",
+    "name": "Franklin Intelligent Machines xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IRENx",
+    "underlyingSymbol": "IREN",
+    "name": "IREN xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ITAx",
+    "underlyingSymbol": "ITA",
+    "name": "iShares U.S. Aerospace & Defense ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "IWMx",
+    "underlyingSymbol": "IWM",
+    "name": "Russell 2000 xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "JAAAx",
+    "underlyingSymbol": "JAAA",
+    "name": "Janus Henderson AAA CLO xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "JNJx",
+    "underlyingSymbol": "JNJ",
+    "name": "Johnson & Johnson xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "JPMx",
+    "underlyingSymbol": "JPM",
+    "name": "JPMorgan Chase xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "JPSTx",
+    "underlyingSymbol": "JPST",
+    "name": "JPMorgan Ultra-Short Income xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "KLACx",
+    "underlyingSymbol": "KLAC",
+    "name": "KLA Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "KOx",
+    "underlyingSymbol": "KO",
+    "name": "Coca-Cola xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "KRAQx",
+    "underlyingSymbol": "KRAQ",
+    "name": "KRAQ xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "LINx",
+    "underlyingSymbol": "LIN",
+    "name": "Linde xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "LITEx",
+    "underlyingSymbol": "LITE",
+    "name": "Lumentum Holdings Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "LLYx",
+    "underlyingSymbol": "LLY",
+    "name": "Eli Lilly xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "LNGx",
+    "underlyingSymbol": "LNG",
+    "name": "Cheniere Energy xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "LRCXx",
+    "underlyingSymbol": "LRCX",
+    "name": "Lam Research Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MARAx",
+    "underlyingSymbol": "MARA",
+    "name": "MARA xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MAx",
+    "underlyingSymbol": "MA",
+    "name": "Mastercard xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MCDx",
+    "underlyingSymbol": "MCD",
+    "name": "McDonald's xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MDTx",
+    "underlyingSymbol": "MDT",
+    "name": "Medtronic xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "METAx",
+    "underlyingSymbol": "META",
+    "name": "Meta xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MOOx",
+    "underlyingSymbol": "MOO",
+    "name": "VanEck Agribusiness ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MRKx",
+    "underlyingSymbol": "MRK",
+    "name": "Merck xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MRVLx",
+    "underlyingSymbol": "MRVL",
+    "name": "Marvell xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MSFTx",
+    "underlyingSymbol": "MSFT",
+    "name": "Microsoft xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MSTRx",
+    "underlyingSymbol": "MSTR",
+    "name": "MicroStrategy xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "MUx",
+    "underlyingSymbol": "MU",
+    "name": "Micron Technology xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "NETx",
+    "underlyingSymbol": "NET",
+    "name": "Cloudflare xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "NFLXx",
+    "underlyingSymbol": "NFLX",
+    "name": "Netflix xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "NLRx",
+    "underlyingSymbol": "NLR",
+    "name": "VanEck Uranium and Nuclear xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "NVDAx",
+    "underlyingSymbol": "NVDA",
+    "name": "NVIDIA xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "NVOx",
+    "underlyingSymbol": "NVO",
+    "name": "Novo Nordisk xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "OKLOx",
+    "underlyingSymbol": "OKLO",
+    "name": "Oklo xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ONDSx",
+    "underlyingSymbol": "ONDS",
+    "name": "Ondas xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "OPENx",
+    "underlyingSymbol": "OPEN",
+    "name": "OPEN xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "ORCLx",
+    "underlyingSymbol": "ORCL",
+    "name": "Oracle xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PALLx",
+    "underlyingSymbol": "PALL",
+    "name": "abrdn Physical Palladium Shares xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PANWx",
+    "underlyingSymbol": "PANW",
+    "name": "Palo Alto Networks xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PEPx",
+    "underlyingSymbol": "PEP",
+    "name": "PepsiCo xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PFEx",
+    "underlyingSymbol": "PFE",
+    "name": "Pfizer xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PGx",
+    "underlyingSymbol": "PG",
+    "name": "Procter & Gamble xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PLTRx",
+    "underlyingSymbol": "PLTR",
+    "name": "Palantir xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PLx",
+    "underlyingSymbol": "PL",
+    "name": "Planet Labs xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PMx",
+    "underlyingSymbol": "PM",
+    "name": "Philip Morris xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PPLTx",
+    "underlyingSymbol": "PPLT",
+    "name": "abrdn Physical Platinum Shares xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PWRx",
+    "underlyingSymbol": "PWR",
+    "name": "Quanta Services, Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "PYPLx",
+    "underlyingSymbol": "PYPL",
+    "name": "PayPal xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "QQQx",
+    "underlyingSymbol": "QQQ",
+    "name": "Nasdaq xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "RBLXx",
+    "underlyingSymbol": "RBLX",
+    "name": "Roblox xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "RCATx",
+    "underlyingSymbol": "RCAT",
+    "name": "Red Cat xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "RIOTx",
+    "underlyingSymbol": "RIOT",
+    "name": "Riot Platforms xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SATAx",
+    "underlyingSymbol": "SATA",
+    "name": "Strive, Inc. Series A Preferred xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SBETx",
+    "underlyingSymbol": "SBET",
+    "name": "SharpLink Gaming xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SCHFx",
+    "underlyingSymbol": "SCHF",
+    "name": "Schwab International Equity xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SGOVx",
+    "underlyingSymbol": "SGOV",
+    "name": "iShares 0-3 Month Treasury Bond ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SLMTx",
+    "underlyingSymbol": "SLMT",
+    "name": "Brera xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SLVx",
+    "underlyingSymbol": "SLV",
+    "name": "iShares Silver Trust xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SMCIx",
+    "underlyingSymbol": "SMCI",
+    "name": "Super Micro Computer, Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SMHx",
+    "underlyingSymbol": "SMH",
+    "name": "VanEck Semiconductor ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SMRx",
+    "underlyingSymbol": "SMR",
+    "name": "NuScale Power Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SNDKx",
+    "underlyingSymbol": "SNDK",
+    "name": "Sandisk Corporation xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SOXLx",
+    "underlyingSymbol": "SOXL",
+    "name": "Direxion Semiconductor Bull 3X xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SOXXx",
+    "underlyingSymbol": "SOXX",
+    "name": "iShares Semiconductor xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SPCEx",
+    "underlyingSymbol": "SPCE",
+    "name": "Virgin Galactic xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "SPYx",
+    "underlyingSymbol": "SPY",
+    "name": "SP500 xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "STRCx",
+    "underlyingSymbol": "STRC",
+    "name": "Strategy PP Variable xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "STRKx",
+    "underlyingSymbol": "STRK",
+    "name": "Strategy PP Fixed xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TBLLx",
+    "underlyingSymbol": "TBLL",
+    "name": "TBLL xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TERx",
+    "underlyingSymbol": "TER",
+    "name": "Teradyne, Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TMOx",
+    "underlyingSymbol": "TMO",
+    "name": "Thermo Fisher xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TMUSx",
+    "underlyingSymbol": "TMUS",
+    "name": "T-Mobile xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TONXx",
+    "underlyingSymbol": "TONX",
+    "name": "TON xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TQQQx",
+    "underlyingSymbol": "TQQQ",
+    "name": "TQQQ xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TSLAx",
+    "underlyingSymbol": "TSLA",
+    "name": "Tesla xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "TSMx",
+    "underlyingSymbol": "TSM",
+    "name": "TSMC xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "UBERx",
+    "underlyingSymbol": "UBER",
+    "name": "Uber xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "UNHx",
+    "underlyingSymbol": "UNH",
+    "name": "UnitedHealth xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "URAx",
+    "underlyingSymbol": "URA",
+    "name": "Global X Uranium ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "USARx",
+    "underlyingSymbol": "USAR",
+    "name": "USA Rare Earth Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "USPXx",
+    "underlyingSymbol": "USPX",
+    "name": "Franklin U.S. Equity Index xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "UUUUx",
+    "underlyingSymbol": "UUUU",
+    "name": "Energy Fuels Inc. xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VCXx",
+    "underlyingSymbol": "VCX",
+    "name": "Fundrise Innovation Fund, LLC xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VGKx",
+    "underlyingSymbol": "VGK",
+    "name": "Vanguard FTSE Europe ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VIDAx",
+    "underlyingSymbol": "VIDA",
+    "name": "Vida Global xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VOOx",
+    "underlyingSymbol": "VOO",
+    "name": "Vanguard S&P 500 xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VRTx",
+    "underlyingSymbol": "VRT",
+    "name": "Vertiv Holdings Co xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VTIx",
+    "underlyingSymbol": "VTI",
+    "name": "Vanguard xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VTx",
+    "underlyingSymbol": "VT",
+    "name": "Vanguard Total World xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VUGx",
+    "underlyingSymbol": "VUG",
+    "name": "Vanguard Growth ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "Vx",
+    "underlyingSymbol": "V",
+    "name": "Visa xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "VXUSx",
+    "underlyingSymbol": "VXUS",
+    "name": "Vanguard Total International Stock ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "WBDx",
+    "underlyingSymbol": "WBD",
+    "name": "Warner Bros. Discovery xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "WMTx",
+    "underlyingSymbol": "WMT",
+    "name": "Walmart xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "WULFx",
+    "underlyingSymbol": "WULF",
+    "name": "TeraWulf xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "XLEx",
+    "underlyingSymbol": "XLE",
+    "name": "Energy Select Sector SPDR Fund xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "XOMx",
+    "underlyingSymbol": "XOM",
+    "name": "Exxon Mobil xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "XOPx",
+    "underlyingSymbol": "XOP",
+    "name": "SPDR S&P Oil & Gas Exploration & Production ETF xStock"
+  },
+  {
+    "platform": "xStocks",
+    "tokenSymbol": "YLDEx",
+    "underlyingSymbol": "YLDE",
+    "name": "Franklin ClearBridge Enhanced Income xStock"
+  }
+]
