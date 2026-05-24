@@ -12,6 +12,7 @@ from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 
@@ -80,12 +81,20 @@ def parse_date(value: Any) -> str | None:
 
 def parse_xstocks() -> list[dict[str, Any]]:
     page = fetch_text(XSTOCKS_URL)
-    pattern = re.compile(
-        r'<h2 class="TableRow_symbol__HiqZZ">([^<]+)</h2>'
-        r'<div class="TableRow_name__TZ6Nw">([^<]+)</div>'
-    )
     assets: list[dict[str, Any]] = []
-    for token_symbol, name in pattern.findall(page):
+
+    row_pattern = re.compile(r'<tr class="TableRow_root__HX08w"[^>]*>.*?</tr>', re.S)
+    product_pattern = re.compile(
+        r'<h2 class="TableRow_symbol__HiqZZ">([^<]+)</h2>'
+        r'<div class="TableRow_name__TZ6Nw">([^<]+)</div>',
+        re.S,
+    )
+
+    for row in row_pattern.findall(page):
+        product_match = product_pattern.search(row)
+        if not product_match:
+            continue
+        token_symbol, name = product_match.groups()
         underlying = re.sub(r"x$", "", token_symbol, flags=re.IGNORECASE)
         assets.append(
             {
@@ -93,9 +102,44 @@ def parse_xstocks() -> list[dict[str, Any]]:
                 "tokenSymbol": token_symbol,
                 "underlyingSymbol": underlying,
                 "name": html.unescape(name),
+                "contracts": parse_xstocks_contracts(row, token_symbol),
             }
         )
     return assets
+
+
+def extract_contract_address(url: str) -> str:
+    path_parts = [part for part in urlparse(url).path.split("/") if part]
+    for marker in ("token", "address"):
+        if marker in path_parts:
+            marker_index = path_parts.index(marker)
+            if marker_index + 1 < len(path_parts):
+                return path_parts[marker_index + 1]
+    return path_parts[-1] if path_parts else url
+
+
+def parse_xstocks_contracts(row_html: str, token_symbol: str) -> list[dict[str, str]]:
+    contracts: list[dict[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+    link_pattern = re.compile(
+        rf'<a title="View\s+{re.escape(token_symbol)}\s+on\s+([^"]+)"[^>]*href="([^"]+)"',
+        re.I,
+    )
+    for network, url in link_pattern.findall(row_html):
+        explorer_url = html.unescape(url)
+        address = extract_contract_address(explorer_url)
+        key = (network.lower(), address.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        contracts.append(
+            {
+                "network": html.unescape(network),
+                "address": address,
+                "explorerUrl": explorer_url,
+            }
+        )
+    return contracts
 
 
 def parse_ondo_slugs() -> list[str]:
@@ -126,7 +170,47 @@ def parse_ondo_asset(slug: str) -> dict[str, Any]:
         "name": html.unescape(name),
         "priceHint": float(price_match.group(1)) if price_match else None,
         "slug": slug,
+        "contracts": parse_ondo_contracts(page),
     }
+
+
+def parse_ondo_contracts(page: str) -> list[dict[str, Any]]:
+    supported_networks_match = re.search(
+        r'"supportedNetworks":\[((?:\{[^{}]*\},?)+)\]',
+        page,
+    ) or re.search(
+        r'\\"supportedNetworks\\":\[((?:\{[^{}]*\},?)+)\]',
+        page,
+    )
+    if not supported_networks_match:
+        return []
+
+    raw_networks = supported_networks_match.group(1).replace('\\"', '"')
+    try:
+        networks = json.loads(f"[{raw_networks}]")
+    except json.JSONDecodeError:
+        return []
+
+    contracts: list[dict[str, Any]] = []
+    for network in networks:
+        raw_network_name = str(network.get("network") or "")
+        network_name = {
+            "BSC": "BSC",
+            "ETHEREUM": "Ethereum",
+            "SOLANA": "Solana",
+        }.get(raw_network_name, raw_network_name.replace("_", " ").title())
+        address = network.get("address")
+        if not network_name or not address:
+            continue
+        contracts.append(
+            {
+                "network": network_name,
+                "address": address,
+                "chainId": network.get("chainId"),
+                "decimals": network.get("decimals"),
+            }
+        )
+    return contracts
 
 
 def parse_ondo_assets(max_workers: int) -> list[dict[str, Any]]:
